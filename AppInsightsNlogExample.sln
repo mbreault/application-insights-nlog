@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppInsightsNlogExample", "AppInsightsNlogExample\AppInsightsNlogExample.csproj", "{0293E6D9-A5DD-4E4E-BE7F-8C574F6F8025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0293E6D9-A5DD-4E4E-BE7F-8C574F6F8025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0293E6D9-A5DD-4E4E-BE7F-8C574F6F8025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0293E6D9-A5DD-4E4E-BE7F-8C574F6F8025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0293E6D9-A5DD-4E4E-BE7F-8C574F6F8025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D55BE4E6-E360-4ADE-BCDE-7602F9682DC8}
+	EndGlobalSection
+EndGlobal
